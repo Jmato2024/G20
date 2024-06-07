@@ -1,0 +1,78 @@
+
+
+.caja1{
+         border: solid green 1px;
+         width: 960px;
+            height: 525px;
+        text-align: center;
+        background-image: url(../ejercico3.png);
+        background-size: cover;
+        margin: auto;
+
+
+}
+
+
+.caja2 {
+    border: solid green 1px;
+    width: 960px;
+    height: 424px;
+    text-align: center;
+    background-color:#7299FE;
+    margin: auto;
+
+
+}
+
+
+.parrafo2{
+
+    text-align: left;
+}
+
+
+
+
+.caja3 {
+    border: solid green 1px;
+    width: 960px;
+    height: 424px;
+    text-align: center;
+    background-color: #9022FF;
+    margin: auto;
+
+
+}
+
+.caja4 {
+    border: solid green 1px;
+    width: 960px;
+    height: 424px;
+    text-align: center;
+    background-color: #FFD233;
+    margin: auto;
+
+
+}
+
+.caja5 {
+    border: solid green 1px;
+    width: 960px;
+    height: 258px;
+    text-align: center;
+    background-color: #3F4E62;
+    margin: auto;
+
+
+}
+
+.caja6 {
+    border: solid green 1px;
+    width: 960px;
+    height: 424px;
+    text-align: center;
+    background-color: #1687A0;
+    margin: auto;
+
+
+}

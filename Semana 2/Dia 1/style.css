@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+border: solid red;
+height: 100vh;
+
+}
+
+article{
+
+border: solid blue 6px;
+border-radius: 10px;
+width: 300px;
+height: 200px;
+text-align: center;
+color: red;
+background-color: yellow;
+padding: 20px;
+margin: auto;
+}
+
+img{
+    width: 200px;
+    height: 150px;
+    object-fit: contain;
+    
+}
+
+.imagen2{
+    width: 100px;
+        height: 100px;
+        object-fit: contain;
+        border-radius: 50%;
+}

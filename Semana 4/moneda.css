@@ -1,0 +1,15 @@
+.moneda {
+    margin-top: 40px;
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border-radius: 100px;
+    border: solid 2px;
+    transition: 1s;
+}
+
+.moneda:hover{
+        width: 200px;
+        height: 200px;
+        transform: rotateY(360deg)
+    }

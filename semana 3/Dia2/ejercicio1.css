@@ -1,0 +1,22 @@
+
+.uno img{
+
+    width: 50px;
+    border: solid;
+    border-radius: 50px;
+}
+
+
+d{
+    justify-content: center;
+    align-items: center;
+    border: solid red;
+height: 900px;
+width: 400px;
+}
+
+
+body .div img{
+
+    border-radius: 10px;
+}

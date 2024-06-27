@@ -1,0 +1,67 @@
+
+
+.resize{
+    border: solid;
+    animation-name: redimensionado;
+    animation-duration: 10s;
+    animation-iteration-count: 4;
+}
+
+@keyframes redimensionado{
+    from{
+        width: 500px;
+
+    }
+    to{
+        width: 100px;
+    }
+}
+
+
+.box{
+    width: 200px;
+    height: 200px;
+    border: solid red;
+    background-color: red;
+    animation-name: colores;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+
+}
+
+
+@keyframes colores{
+
+    0%{ background-color: brown;}
+
+     25% { background-color: white; }
+
+     50% { background-color: sienna; }
+     75% { background-color: yellow; }
+    100% { background-color: brown; }
+}
+
+
+
+.cambio{
+    width: 200px;
+        height: 200px;
+        border: solid red;
+        background-color: red;
+        animation-name: cambio;
+        animation-duration: 10s;
+        animation-iteration-count: infinite;
+
+
+
+}
+
+@keyframes cambio{
+
+    0%{background-image: url(../Rectangle\ 9.png);}
+    25% {background-image: url(../Rectangle\ 8.png);}
+    100%{background-image: url(../Rectangle\ 10.png);}
+    
+           
+
+        }

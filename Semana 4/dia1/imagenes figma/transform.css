@@ -1,0 +1,31 @@
+
+/*
+
+.box{width: 100px;
+    height: 100px;
+    background-color: blue;
+    transition: 0.5s;
+    opacity: 1s;
+
+
+}
+
+
+*/
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: 1s ease-in;
+}
+
+.box:hover{
+
+
+    width: 150px;
+    height: 150px;
+    background-attachment: green;
+    transform: rotate(180deg)
+    ;
+}

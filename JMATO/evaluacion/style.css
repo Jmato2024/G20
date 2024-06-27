@@ -1,0 +1,57 @@
+body {
+    background-color: black;
+    color: rgb(244, 244, 244);
+}
+
+
+.contenedor{
+    width: 280px;
+    background-color: rgb(37, 37, 37);
+    margin: 200px auto;
+    
+    height: 70vh;
+    }
+
+h4{color: yellow;}
+
+#links {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+
+}
+
+.link {
+    background-color: rgb(54, 54, 54);
+    width: 200px;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+
+    font-size: 14px;
+
+    display: flex;
+    justify-content: center;
+    gap: 2px;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+img {
+    width: 200px;
+    border-radius: 50%;
+
+}
+
+.hijo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 1em;
+    height: 100%;
+}
